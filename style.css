@@ -1,0 +1,29 @@
+body{
+    background-color:#d3d3d3;
+}
+.header{
+    color: white;
+    background-color: rgb(114, 114, 114);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+}
+.itens{
+    border-radius: 20px;
+    width: 310px;
+    text-align: center;
+   
+    background-color: white;
+}
+.gread {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
